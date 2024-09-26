@@ -9,7 +9,7 @@ export default function PDFViewer() {
       </Head>
       <div style={{ width: '100vw', height: '100vh', overflow: 'hidden' }}>
         <iframe
-          src="/resume.pdf"
+          src="/Kokadan Saad.pdf"
           style={{ width: '100%', height: '100%', border: 'none' }}
           title="Resume PDF"
         />
